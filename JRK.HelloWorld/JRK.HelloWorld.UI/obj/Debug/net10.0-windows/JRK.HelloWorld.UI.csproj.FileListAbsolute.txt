@@ -1,0 +1,32 @@
+C:\School Projects\C#Intro\JRK.HelloWorld\JRK.HelloWorld.UI\bin\Debug\net10.0-windows\JRK.HelloWorld.UI.exe
+C:\School Projects\C#Intro\JRK.HelloWorld\JRK.HelloWorld.UI\bin\Debug\net10.0-windows\JRK.HelloWorld.UI.deps.json
+C:\School Projects\C#Intro\JRK.HelloWorld\JRK.HelloWorld.UI\bin\Debug\net10.0-windows\JRK.HelloWorld.UI.runtimeconfig.json
+C:\School Projects\C#Intro\JRK.HelloWorld\JRK.HelloWorld.UI\bin\Debug\net10.0-windows\JRK.HelloWorld.UI.dll
+C:\School Projects\C#Intro\JRK.HelloWorld\JRK.HelloWorld.UI\bin\Debug\net10.0-windows\JRK.HelloWorld.UI.pdb
+C:\School Projects\C#Intro\JRK.HelloWorld\JRK.HelloWorld.UI\obj\Debug\net10.0-windows\JRK.HelloWorld.UI.frmHelloWorld.resources
+C:\School Projects\C#Intro\JRK.HelloWorld\JRK.HelloWorld.UI\obj\Debug\net10.0-windows\JRK.HelloWorld.UI.csproj.GenerateResource.cache
+C:\School Projects\C#Intro\JRK.HelloWorld\JRK.HelloWorld.UI\obj\Debug\net10.0-windows\JRK.HelloWorld.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\School Projects\C#Intro\JRK.HelloWorld\JRK.HelloWorld.UI\obj\Debug\net10.0-windows\JRK.HelloWorld.UI.AssemblyInfoInputs.cache
+C:\School Projects\C#Intro\JRK.HelloWorld\JRK.HelloWorld.UI\obj\Debug\net10.0-windows\JRK.HelloWorld.UI.AssemblyInfo.cs
+C:\School Projects\C#Intro\JRK.HelloWorld\JRK.HelloWorld.UI\obj\Debug\net10.0-windows\JRK.HelloWorld.UI.csproj.CoreCompileInputs.cache
+C:\School Projects\C#Intro\JRK.HelloWorld\JRK.HelloWorld.UI\obj\Debug\net10.0-windows\JRK.HelloWorld.UI.dll
+C:\School Projects\C#Intro\JRK.HelloWorld\JRK.HelloWorld.UI\obj\Debug\net10.0-windows\refint\JRK.HelloWorld.UI.dll
+C:\School Projects\C#Intro\JRK.HelloWorld\JRK.HelloWorld.UI\obj\Debug\net10.0-windows\JRK.HelloWorld.UI.pdb
+C:\School Projects\C#Intro\JRK.HelloWorld\JRK.HelloWorld.UI\obj\Debug\net10.0-windows\JRK.HelloWorld.UI.genruntimeconfig.cache
+C:\School Projects\C#Intro\JRK.HelloWorld\JRK.HelloWorld.UI\obj\Debug\net10.0-windows\ref\JRK.HelloWorld.UI.dll
+C:\School Projects\C#Intro\Week 1\JRK.HelloWorld\JRK.HelloWorld.UI\bin\Debug\net10.0-windows\JRK.HelloWorld.UI.exe
+C:\School Projects\C#Intro\Week 1\JRK.HelloWorld\JRK.HelloWorld.UI\bin\Debug\net10.0-windows\JRK.HelloWorld.UI.deps.json
+C:\School Projects\C#Intro\Week 1\JRK.HelloWorld\JRK.HelloWorld.UI\bin\Debug\net10.0-windows\JRK.HelloWorld.UI.runtimeconfig.json
+C:\School Projects\C#Intro\Week 1\JRK.HelloWorld\JRK.HelloWorld.UI\bin\Debug\net10.0-windows\JRK.HelloWorld.UI.dll
+C:\School Projects\C#Intro\Week 1\JRK.HelloWorld\JRK.HelloWorld.UI\bin\Debug\net10.0-windows\JRK.HelloWorld.UI.pdb
+C:\School Projects\C#Intro\Week 1\JRK.HelloWorld\JRK.HelloWorld.UI\obj\Debug\net10.0-windows\JRK.HelloWorld.UI.frmHelloWorld.resources
+C:\School Projects\C#Intro\Week 1\JRK.HelloWorld\JRK.HelloWorld.UI\obj\Debug\net10.0-windows\JRK.HelloWorld.UI.csproj.GenerateResource.cache
+C:\School Projects\C#Intro\Week 1\JRK.HelloWorld\JRK.HelloWorld.UI\obj\Debug\net10.0-windows\JRK.HelloWorld.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\School Projects\C#Intro\Week 1\JRK.HelloWorld\JRK.HelloWorld.UI\obj\Debug\net10.0-windows\JRK.HelloWorld.UI.AssemblyInfoInputs.cache
+C:\School Projects\C#Intro\Week 1\JRK.HelloWorld\JRK.HelloWorld.UI\obj\Debug\net10.0-windows\JRK.HelloWorld.UI.AssemblyInfo.cs
+C:\School Projects\C#Intro\Week 1\JRK.HelloWorld\JRK.HelloWorld.UI\obj\Debug\net10.0-windows\JRK.HelloWorld.UI.csproj.CoreCompileInputs.cache
+C:\School Projects\C#Intro\Week 1\JRK.HelloWorld\JRK.HelloWorld.UI\obj\Debug\net10.0-windows\JRK.HelloWorld.UI.dll
+C:\School Projects\C#Intro\Week 1\JRK.HelloWorld\JRK.HelloWorld.UI\obj\Debug\net10.0-windows\refint\JRK.HelloWorld.UI.dll
+C:\School Projects\C#Intro\Week 1\JRK.HelloWorld\JRK.HelloWorld.UI\obj\Debug\net10.0-windows\JRK.HelloWorld.UI.pdb
+C:\School Projects\C#Intro\Week 1\JRK.HelloWorld\JRK.HelloWorld.UI\obj\Debug\net10.0-windows\JRK.HelloWorld.UI.genruntimeconfig.cache
+C:\School Projects\C#Intro\Week 1\JRK.HelloWorld\JRK.HelloWorld.UI\obj\Debug\net10.0-windows\ref\JRK.HelloWorld.UI.dll

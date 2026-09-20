@@ -1,0 +1,16 @@
+C:\C# Projects\C#Intro\JRK.FirstApp\JRK.FirstApp.UI\bin\Debug\net10.0-windows\JRK.FirstApp.UI.exe
+C:\C# Projects\C#Intro\JRK.FirstApp\JRK.FirstApp.UI\bin\Debug\net10.0-windows\JRK.FirstApp.UI.deps.json
+C:\C# Projects\C#Intro\JRK.FirstApp\JRK.FirstApp.UI\bin\Debug\net10.0-windows\JRK.FirstApp.UI.runtimeconfig.json
+C:\C# Projects\C#Intro\JRK.FirstApp\JRK.FirstApp.UI\bin\Debug\net10.0-windows\JRK.FirstApp.UI.dll
+C:\C# Projects\C#Intro\JRK.FirstApp\JRK.FirstApp.UI\bin\Debug\net10.0-windows\JRK.FirstApp.UI.pdb
+C:\C# Projects\C#Intro\JRK.FirstApp\JRK.FirstApp.UI\obj\Debug\net10.0-windows\JRK.FirstApp.UI.csproj.GenerateResource.cache
+C:\C# Projects\C#Intro\JRK.FirstApp\JRK.FirstApp.UI\obj\Debug\net10.0-windows\JRK.FirstApp.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\C#Intro\JRK.FirstApp\JRK.FirstApp.UI\obj\Debug\net10.0-windows\JRK.FirstApp.UI.AssemblyInfoInputs.cache
+C:\C# Projects\C#Intro\JRK.FirstApp\JRK.FirstApp.UI\obj\Debug\net10.0-windows\JRK.FirstApp.UI.AssemblyInfo.cs
+C:\C# Projects\C#Intro\JRK.FirstApp\JRK.FirstApp.UI\obj\Debug\net10.0-windows\JRK.FirstApp.UI.csproj.CoreCompileInputs.cache
+C:\C# Projects\C#Intro\JRK.FirstApp\JRK.FirstApp.UI\obj\Debug\net10.0-windows\JRK.FirstApp.UI.dll
+C:\C# Projects\C#Intro\JRK.FirstApp\JRK.FirstApp.UI\obj\Debug\net10.0-windows\refint\JRK.FirstApp.UI.dll
+C:\C# Projects\C#Intro\JRK.FirstApp\JRK.FirstApp.UI\obj\Debug\net10.0-windows\JRK.FirstApp.UI.pdb
+C:\C# Projects\C#Intro\JRK.FirstApp\JRK.FirstApp.UI\obj\Debug\net10.0-windows\JRK.FirstApp.UI.genruntimeconfig.cache
+C:\C# Projects\C#Intro\JRK.FirstApp\JRK.FirstApp.UI\obj\Debug\net10.0-windows\ref\JRK.FirstApp.UI.dll
+C:\C# Projects\C#Intro\JRK.FirstApp\JRK.FirstApp.UI\obj\Debug\net10.0-windows\JRK.FirstApp.UI.frmDisplayStuff.resources

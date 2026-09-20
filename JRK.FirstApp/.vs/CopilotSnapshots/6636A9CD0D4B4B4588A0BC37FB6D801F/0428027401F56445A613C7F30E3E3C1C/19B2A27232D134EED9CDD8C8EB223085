@@ -1,0 +1,72 @@
+﻿namespace JRK.FirstApp.UI
+{
+    partial class frmDisplayStuff
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            SuspendLayout();
+            // 
+            // frmDisplayStuff
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.DarkSlateGray;
+            ClientSize = new Size(434, 311);
+            Name = "frmDisplayStuff";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "Used to Display Stuff";
+            Load += frmDisplayStuff_Load;
+            ResumeLayout(false);
+        }
+
+        private void frmDisplayStuff_Load(object sender, EventArgs e)
+        {
+            // Initialization logic for the form goes here.
+            // Example: set window title and initialize controls.
+            this.Text = "Used to Display Stuff";
+            // TODO: add any further startup initialization (data binding, control setup, etc.)
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            // Exit the application when the Exit button is clicked.
+            Application.Exit();
+        }
+
+        private void lblInformation_Click(object sender, EventArgs e)
+        {
+            // Optional: show information when label is clicked, or leave empty if not needed.
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            // TODO: implement this button's action or remove the handler if unused.
+        }
+
+        #endregion
+    }
+}
